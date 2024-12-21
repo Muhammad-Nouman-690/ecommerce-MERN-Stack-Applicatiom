@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Basic Tee",
+      "href": "#",
+      "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "$35",
+      "color": "Black"
+    },
+    {
+      "id": 2,
+      "name": "Classic White Shirt",
+      "href": "#",
+      "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-02.jpg",
+      "imageAlt": "Front of men's Classic White Shirt.",
+      "price": "$45",
+      "color": "White"
+    },
+    {
+      "id": 3,
+      "name": "Formal Pants",
+      "href": "#",
+      "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg",
+      "imageAlt": "Front of men's Formal Pants in grey.",
+      "price": "$50",
+      "color": "Grey"
+    },
+    {
+      "id": 4,
+      "name": "Casual Sneakers",
+      "href": "#",
+      "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+      "imageAlt": "Pair of Casual Sneakers.",
+      "price": "$60",
+      "color": "Blue"
+    }
+  ]
+}
